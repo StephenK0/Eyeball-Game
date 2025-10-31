@@ -9,7 +9,7 @@ public class Health : MonoBehaviour
 	void Update(){
 		transform.localScale = new Vector3(1, 1, 1) * (1f * size / 1000);
 		Debug.Log("=D");
-		size -= GameManager.main.GetLevel();
+		size -= GameManager.main.GetLevel() * 10;
 		GameManager.main.savedSize = size;
 		if(size <= 0) GameManager.EndGame();
 	}
