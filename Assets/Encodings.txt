@@ -1,0 +1,9 @@
+Sum of heracles code and kyle code: 
+84 121 112 101 32 111 117 114 32 110 97 109 101 115 32 111 110 32 102 108 111 111 114 32 49 46 
+
+Type our names on floor 1.
+
+Heracles code: 
+67 111 109 101 32 102 111 114 116 104 32 111 32 71 108 111 114 121 32 111 102 32 72 101 114 97 
+Come forth o Glory of Hera
+

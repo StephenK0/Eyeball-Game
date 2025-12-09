@@ -8,7 +8,7 @@ public class Travel : Control
 		speed = (GameManager.main.GetLevel() + 3);
 	}
 	public void Update(){
-		Move(targets[targetIndex]);
+		if(Data.values[Datapoint.paused]) Move(targets[targetIndex]);
 		if(Arrived(targets[targetIndex])) targetIndex--;
 		if(targetIndex < 0) targetIndex = targets.Length - 1;
 	}

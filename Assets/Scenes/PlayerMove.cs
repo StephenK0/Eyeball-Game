@@ -4,7 +4,8 @@ public class PlayerMove : Control
 {
 	private void Update(){
 		Vector3 direction = GetDirection();
-		transform.Translate(direction * speed * Time.deltaTime);
+		if(Data.values[Datapoint.speedBoost]) speed = 16;
+		if(Data.values[Datapoint.paused]){	transform.Translate(direction * speed * Time.deltaTime);  }
 	}
 
 	public override Vector3 GetDirection(){

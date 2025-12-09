@@ -1,0 +1,76 @@
+Reach level ten ->
+Pressing P on level six means that the game will get harder every ten levels, instead of every level.
+
+//Reach level eleven ->
+//Pressing p on level six means that the game will get harder every ten levels, instead of every level.
+
+Barely offscreen text in level 15 ->
+The scratchpad is in the top righthand corner of the menu, if only someone had the trust to click there...
+
+Clicking the bottom righthand corner of the menu (perhaps as an act of exploration after discovering the scratchpad) -> 
+The settings menu, in which the volume can be controlled and the visibility of nodes can be toggled. 
+
+Fully offscreen text in level 17 -> 
+- Keep the scratchpad closed and the settings open on level 25 to prevent a difficulty increase. (If these conditions are not met, level 18 becomes virtually unbeatable.)
+
+Settings is left open on level 3 -> 
+- level three menu text -> 
+- Hidden offscreen messages can be found on levels 15, 17, 30, and 50. 
+
+Fully offscreen text in level 30 -> 
+- The being on floor 24 is called the Silent Screaming. Do not listen to its song, or you will miss Heracles on the floor above this one. 
+
+Volume muted on floor 24 -> 
+- Barely offscreen arrow to portal
+- Heracles fight! Heraclese will attempt to shoot at the balloon, causing it to deflate. You must block him by standing between him and the balloon. During this fight, the balloon doesn't deflate naturally, and the only two nodes on the balloon's path are in predictable locations. Heracles himself will display each digit of the Heracles Code once, in order. 
+
+Lose during the Heracles fight -> 
+- Onscreen text: Pro tip: Heracles is weak to puffs of air. 
+
+Win Heracles fight -> 
+- Floor 31 menu text: Heracles's buff can be equipped by pressing 67 with the settings open. 
+
+Spamming 6 and 7 over and over again with the menu open ->
+- A new toggle for Heracles's buff appears on the settings menu. (Heracles's buff makes your attack larger.)
+
+Onscreen text in level 50 ->
+- If the eye closes on level 16, it will open again on level 3. 
+
+Lose on level 16 ->
+- Level three begins (Difficulty is reset. Buffs and unlocked things, specifically playing level 12 with standard difficulty to get a speed increase, stay the same. The speed boost cannot be collected repeatedly.)
+
+Offscreen text in level 50 ->
+- Press F on level 18 to unlock a secret on level 34. 
+
+Pressing F on level 18 -> 
+- Onscreen text in level 34 -> 
+- Playing level 12 with standard difficulty will increase your speed. 
+
+- Onscreen text in level 60 -> 
+Kyle's code can be found on floor 56, for those who are listening and not touching their scratchpad. 
+
+Scratchpad closed and volume raised on floor 56 ->
+- Onscreen text ->
+- Kyle's code appears. A message from Kyle appears at the bottom of the scratchpad. "Hi. I'm Kyle. If you're seeing this, it means you've seen my code. Heracles and I, we were doing research on the lower floors... We found something we shouldn't have. I'm trusting you with this. Run. Add my code to Heracles, you'll know what to do with the rest. I'm trusting you. I'm trusting  you. Take it. Run."
+
+Combining Heracles Code with Kyle's code ->
+- Type our names on floor 1. 
+
+Type Heracles during level 1 ->
+- Level 1 win screen is replaced with the following text: "For floors 50+, hidden offscreen messages can be found on levels 67, 71, and 80."
+
+Type Kyle during level 1 ->
+- Level 1 win screen is replaced with the following text: "What is with this <blue>house</blue>? Why is it blue? Heracles is too loose with his notes. I'm hiding mine deep within the <blue>house</blue>. With enough luck, they'll stay hidden."
+
+
+
+-TODO: 
+  -I'm not the first one here. There's some text. Someone else scratched their name... Heracles?"
+  -References to House of leaves
+  -Labarynth on 64 (or maybe 75 or 100?)
+  -Force the player to reset the game or clear their scratch pad
+  -Make the lies of the earlier levels truth
+  -Things that are farther offscreen and can only be reached when the player posesses the speed boost
+  -Type iwin on level 10 to end the game. 
+Win the game screen ->
+- Congratulations! You've one the game! \nType : and a level number to go to a level!
